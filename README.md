@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=usman-naeem-dev&theme=dark&hide_border=false" width="49%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-naeem-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-naeem-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="39%" />
 </div>
 
 
