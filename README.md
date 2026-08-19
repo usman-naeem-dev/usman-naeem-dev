@@ -1,34 +1,173 @@
-# 💫 About Me:
-👋 Hi, I’m Usman Naeem<br><br>🚀 Full Stack Developer | AI Automation Engineer | Problem Solver<br><br>As an accomplished Full Stack Developer with over 4 years of hands-on experience, I specialize in crafting high-performing, intelligent web applications — combining solid backend logic with sleek, responsive frontends.<br>My work bridges AI, automation, and scalable software design, empowering businesses with smarter digital solutions.<br><br>💡 What I Do<br><br>⚙️ Build end-to-end web apps using React, Next.js, Vue, and Angular<br><br>🧱 Develop robust backends with Node.js, Express, and Laravel<br><br>🤖 Integrate AI automation using OpenAI, LangChain, and n8n<br><br>🗄️ Design and optimize databases (MongoDB, PostgreSQL, Firebase, MySQL)<br><br>☁️ Deploy scalable solutions on AWS, Vercel, and Docker<br><br>🧩 Tech Stack<br><br>Languages: JavaScript (ES6+), TypeScript, Python, PHP<br>Frontend: React, Next.js, Vue.js, Angular, Tailwind CSS, Redux, Zustand<br>Backend: Node.js, Express.js, Laravel, NestJS<br>Databases: MongoDB, PostgreSQL, Firebase, MySQL<br>AI & Automation: OpenAI, LangChain, n8n, Zapier<br>DevOps: Docker, AWS, GitHub Actions, Nginx<br><br>🧠 What I’m Working On<br><br>🔹 Building AI-powered automation systems for startups<br><br>🔹 Architecting multi-tenant SaaS platforms<br><br>🔹 Creating realtime chat, voice, and workflow tools
+<!-- ============================================================= -->
+<!--  HOW TO USE                                                    -->
+<!--  1. Repo name must equal your username: usman-naeem-dev        -->
+<!--  2. Put this file in it as README.md                           -->
+<!--  3. Replace placeholders marked >>> ... <<<                    -->
+<!-- ============================================================= -->
 
+<!-- ===================== TOP BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:7c3aed,100:00d4ff&height=180&section=header" width="100%"/>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1093935620545576960) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-usman-36452a22a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usmannaeem52666@gmail.com) 
+<h3 align="center">
+  ⚡ <code>FULL STACK DEVELOPER</code> &nbsp;|&nbsp; <code>AI AUTOMATION ENGINEER</code> &nbsp;|&nbsp; <code>PROBLEM SOLVER</code> ⚡
+</h3>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=70&lines=USMAN+NAEEM" alt="Usman Naeem"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=%3E+Building+intelligent%2C+scalable+web+apps+that+ship+_;%3E+Backend+logic+%2B+sleek+frontends+%2B+AI+automation+_" alt="tagline"/>
+</p>
+
+<!-- ===================== ASCII TITLE ===================== -->
+
+```
+███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
+██╔════╝██║   ██║██║     ██║         ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+█████╗  ██║   ██║██║     ██║         ███████╗   ██║   ███████║██║     █████╔╝
+██╔══╝  ██║   ██║██║     ██║         ╚════██║   ██║   ██╔══██║██║     ██╔═██╗
+██║     ╚██████╔╝███████╗███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
+╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
+
+<!-- ===================== FOCUS AREAS ===================== -->
+<p align="center">
+  <b>React / Next.js</b> &nbsp;|&nbsp; <b>Node & Laravel</b> &nbsp;|&nbsp; <b>AI Automation</b> &nbsp;|&nbsp; <b>SaaS Architecture</b> &nbsp;|&nbsp; <b>Realtime Apps</b>
+</p>
+<p align="center">
+  <i>4+ years building end-to-end web apps · Open to freelance & full-time opportunities</i>
+</p>
+
+<!-- ===================== BADGES ROW ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=usman-naeem-dev&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-181717?style=flat-square&logo=github" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-00d4ff?style=flat-square" alt="experience"/>
+  <img src="https://img.shields.io/badge/📍->>> YOUR CITY <<<-7c3aed?style=flat-square" alt="location"/>
+</p>
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-usman-36452a22a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:usmannaeem52666@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://discord.com/users/1093935620545576960"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+  <a href=">>> PORTFOLIO URL (optional) <<<"><img src="https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=for-the-badge&logoColor=white" alt="portfolio"/></a>
+</p>
+
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+## 🚀 About Me
+
+Full Stack Developer with **4+ years** of hands-on experience crafting high-performing, intelligent web applications — pairing solid backend logic with sleek, responsive frontends. My work bridges **AI, automation, and scalable software design**, giving businesses smarter digital solutions.
+
+- ⚙️ Build end-to-end web apps with **React, Next.js, Vue, and Angular**
+- 🧱 Develop robust backends with **Node.js, Express, NestJS, and Laravel**
+- 🤖 Integrate AI automation using **OpenAI, LangChain, and n8n**
+- 🗄️ Design and optimize databases — **MongoDB, PostgreSQL, Firebase, MySQL**
+- ☁️ Deploy scalable solutions on **AWS, Vercel, and Docker**
+
+**🧠 Currently working on**
+- 🔹 AI-powered automation systems for startups
+- 🔹 Multi-tenant SaaS platforms
+- 🔹 Realtime chat, voice, and workflow tools
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=usman-naeem-dev&theme=dark&hide_border=false&card_width=500" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-naeem-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=500" height="200" />
-    </td>
-  </tr>
-</table>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=usman-naeem-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00d4ff&text_color=ffffff"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-naeem-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usman-naeem-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=00d4ff&currStreakLabel=7c3aed"/>
+</p>
+
+<!-- ===================== TROPHIES ===================== -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=usman-naeem-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usman-naeem-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</p>
 
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🔥 Featured Projects
 
+<!-- Replace repo names with your best work -->
+<p align="center">
+  <a href="https://github.com/usman-naeem-dev/>>>REPO-1<<<">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usman-naeem-dev&repo=>>>REPO-1<<<&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00d4ff"/>
+  </a>
+  <a href="https://github.com/usman-naeem-dev/>>>REPO-2<<<">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usman-naeem-dev&repo=>>>REPO-2<<<&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00d4ff"/>
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=usman-naeem-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ===================== QUOTE ===================== -->
+## ✍️ Random Dev Quote
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,55:7c3aed,100:0d1117&height=120&section=footer"/>
+</p>
