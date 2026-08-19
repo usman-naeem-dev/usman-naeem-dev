@@ -1,259 +1,175 @@
 <!-- ==================================================================== -->
-<!--  SETUP                                                                -->
-<!--  1. Repo name must equal your username:  usman-naeem-dev             -->
-<!--  2. Save this file in it as  README.md                               -->
-<!--  3. For the SNAKE animation, add the workflow at the bottom of file  -->
-<!--  4. Fill anything marked  >>> ... <<<                                -->
+<!--  SETUP                                                               -->
+<!--  1. Repo name must equal your username:  usman-naeem-dev            -->
+<!--  2. Save as README.md in that repo                                  -->
+<!--  3. See "RELIABILITY" note at the bottom re: the stats cards        -->
 <!-- ==================================================================== -->
 
-<!-- ============================ TOP BANNER ============================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00ff9c,75:00d4ff,100:bf00ff&height=190&section=header" width="100%"/>
-</p>
-
-<h3 align="center">
-  ⚡ <code>FULL-STACK ENGINEER</code> &nbsp;•&nbsp; <code>VOICE AI</code> &nbsp;•&nbsp; <code>WEB3</code> &nbsp;•&nbsp; <code>SECURE SYSTEMS</code> ⚡
-</h3>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&height=75&lines=MUHAMMAD+USMAN" alt="Muhammad Usman"/>
-</h1>
+<h1 align="center">Muhammad Usman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&lines=%3E+Shipping+production+web+apps+%40+scale+_;%3E+Building+low-latency+Voice+AI+agents+_;%3E+MERN+%C2%B7+Next.js+%C2%B7+Web3+%C2%B7+secure+by+design+_" alt="tagline"/>
+  <b>Full-Stack Engineer</b> &nbsp;·&nbsp; MERN / Next.js &nbsp;·&nbsp; Voice AI Lead
 </p>
 
-<!-- ============================ TERMINAL ============================ -->
-
-```bash
-$ whoami
-> Muhammad Usman — Full-Stack (MERN / Next.js) Engineer & Voice AI Lead
-
-$ cat focus.txt
-> Production web apps · 24/7 Voice AI agents · Multi-tenant SaaS · Web3
-
-$ ./stack --primary
-> React 18 · Next.js 14 · NestJS · Node · MongoDB · LiveKit · ethers.js
-
-$ location --now
-> Lahore, PK  (remote-first · GMT+5)
-```
-
-<!-- ============================ ASCII TITLE ============================ -->
-
-```
- █████╗ ██╗           ██╗    ██╗███████╗██████╗ ██████╗        ███████╗███████╗ ██████╗
-██╔══██╗██║           ██║    ██║██╔════╝██╔══██╗╚════██╗       ██╔════╝██╔════╝██╔════╝
-███████║██║           ██║ █╗ ██║█████╗  ██████╔╝ █████╔╝       ███████╗█████╗  ██║
-██╔══██║██║           ██║███╗██║██╔══╝  ██╔══██╗ ╚═══██╗       ╚════██║██╔══╝  ██║
-██║  ██║██║    ██╗    ╚███╔███╔╝███████╗██████╔╝██████╔╝    ██╗███████║███████╗╚██████╗
-╚═╝  ╚═╝╚═╝    ╚═╝     ╚══╝╚══╝ ╚══════╝╚═════╝ ╚═════╝     ╚═╝╚══════╝╚══════╝ ╚═════╝
-```
-
-<!-- ============================ BADGES ============================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usman-naeem-dev&label=Profile%20Views&color=00ff9c&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/badge/Open%20to-Work-181717?style=flat-square&logo=github" alt="open to work"/>
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00d4ff?style=flat-square" alt="experience"/>
-  <img src="https://img.shields.io/badge/📍-Lahore,%20Pakistan-bf00ff?style=flat-square" alt="location"/>
-  <img src="https://img.shields.io/badge/Remote-First-00ff9c?style=flat-square" alt="remote"/>
+  <a href="https://usman-next-folio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/usmannaeem">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:usmannaeem52666@gmail.com">Email</a>
 </p>
 
-<!-- ============================ SOCIALS ============================ -->
 <p align="center">
-  <a href="https://usman-next-folio.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-00ff9c?style=for-the-badge&logoColor=black" alt="portfolio"/></a>
-  <a href="https://linkedin.com/in/usmannaeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:usmannaeem52666@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://discord.com/users/1093935620545576960"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20years-0d1117?style=flat-square&labelColor=0d1117&color=00b894"/>
+  <img src="https://img.shields.io/badge/Based%20in-Lahore,%20PK%20(GMT%2B5)-0d1117?style=flat-square&labelColor=0d1117&color=0984e3"/>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20roles-0d1117?style=flat-square&labelColor=0d1117&color=6c5ce7"/>
 </p>
+
+---
+
+I build and operate production web systems end to end — schema design, REST APIs, auth, deployment, and 24/7 production ops. For the past two years I've led **voice AI** engineering at [VohoAI](https://linkedin.com/in/usmannaeem), taking every agent the company ships from prototype to live enterprise traffic across Saudi Arabia, Germany, and the wider GCC.
+
+Most of my work sits where **realtime systems, LLM infrastructure, and multi-tenant SaaS** meet — the parts that have to stay up, stay fast, and stay correct across tenants and languages.
 
 <br/>
 
-<!-- ============================ THREE PILLARS ============================ -->
-## 🧬 What I Build
+## Selected Impact
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-### 🤖 AI & Voice Agents
-Lead dev on every voice agent shipped at **VohoAI**, prototype → 24/7 prod.
-- Deepgram → LLM → ElevenLabs pipelines on **LiveKit / Pipecat**, **< 800 ms** end-to-end
-- Multilingual agents — **AR / EN / DE / UR** with per-language tool routing
-- **RAG** pipelines, Retell / VAPI, Twilio SIP, GPT-4o / Gemini / Claude
-
-</td>
-<td valign="top" width="33%">
-
-### ⛓️ Blockchain & Web3
-On-chain product work from the **Amco** era.
-- NFT / digital-asset **marketplace** with on-chain interactions
-- Wallet integration via **MetaMask + ethers.js**
-- SaaS **custody platform** for digital assets with role-based access
-
-</td>
-<td valign="top" width="33%">
-
-### 🔐 Secure Systems
-Security-minded across every layer.
-- **JWT / Passport** auth + **RBAC** on Swagger-documented APIs
-- Idempotent enterprise integrations (**SAP PI/PO**, on-prem Java/WebLogic)
-- 24/7 prod ops — **PM2 · Nginx · Certbot · GitHub Actions** CI/CD
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **< 800 ms** | End-to-end voice response latency — Deepgram → LLM → ElevenLabs pipelines on LiveKit / Pipecat with custom VAD tuning and barge-in handling |
+| **169 endpoints** | REST API surface across 20 collections on the SAMINA multi-tenant booking & POS platform (NestJS / MongoDB) |
+| **4 languages** | Production voice agents in Arabic (Najdi), English, German, and Urdu, with per-language tool routing to eliminate code-switching failures |
+| **30K+ tokens** | Per-session cost reduction on the Miku booking agent via v2 state-machine prompt architecture and slot-validation caching |
+| **24/7** | Production uptime ownership — GCP infrastructure via Coolify, PM2, Nginx, Certbot, and self-hosted GitHub Actions runners |
 
 <br/>
 
-<!-- ============================ ABOUT ============================ -->
-## 🚀 About Me
+## Focus Areas
 
-Full-Stack **(MERN)** Engineer with **3+ years** building production web applications with MongoDB, Express / NestJS, React, and Node.js. I've shipped **multi-tenant SaaS platforms, CRM dashboards, and REST APIs** end to end — from schema design and **JWT / Passport** auth to deployment and 24/7 production ops on **GCP**. Deep additional focus on production **Voice AI agents** (LiveKit, Retell, Twilio) on the modern LLM stack, plus hands-on **Flutter** mobile delivery (published to Google Play & the App Store).
+**Voice AI & LLM Infrastructure**
+Low-latency realtime pipelines on LiveKit and Pipecat. Multilingual agent design, prompt architecture, RAG, and tool routing. Retell AI, VAPI, Twilio SIP, Deepgram, ElevenLabs, GPT-4o, Gemini, Claude.
 
-- 🔭 Currently: **Voice AI Lead @ VohoAI** (Berlin, remote) + the **SAMINA** multi-tenant booking & POS platform
-- 🌱 Going deeper on **agentic AI workflows**, Claude Code, and low-latency realtime systems
-- 🧩 Contributor to **AI Vibe Club** — voice AI, n8n automation & the AI Consultant Pathway
-- 💬 Ask me about **Voice AI pipelines, multi-tenant SaaS, or Web3 integrations**
-- 🎯 **Open to full-time & freelance** — remote-first
+**Multi-Tenant SaaS & Platform Engineering**
+White-label platforms with tenant isolation, usage-based Stripe billing, and role-based access. Next.js / React front-ends over NestJS or Express APIs, documented with Swagger/OpenAPI.
 
-<br/>
+**Systems Integration**
+Wiring products into enterprise and legacy estates — SAP PI/PO, on-prem Java/WebLogic, GoHighLevel CRM, Twilio SIP — handling auth, retries, and idempotency end to end.
 
-<!-- ============================ TECH STACK ============================ -->
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,mongodb,postgres,redis,supabase,tailwind,redux,vue,astro,flutter,dart,python,fastapi,laravel,docker,gcp,azure,nginx,githubactions,git,vercel&perline=14" alt="skills"/>
-</p>
-
-**🎙️ Voice AI & LLMs**
-
-![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white)
-![Retell AI](https://img.shields.io/badge/Retell%20AI-6C47FF?style=for-the-badge)
-![VAPI](https://img.shields.io/badge/VAPI-10B981?style=for-the-badge)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**⛓️ Web3**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
-![Solidity](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+**Web3**
+NFT / digital-asset marketplace with on-chain interactions and wallet integration (MetaMask, ethers.js), plus a digital-asset custody SaaS with role-based admin.
 
 <br/>
 
-<!-- ============================ STATS ============================ -->
-## 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=usman-naeem-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00d4ff&text_color=ffffff&ring_color=bf00ff"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-naeem-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff&langs_count=8"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,redis,supabase,tailwind,redux&perline=12" alt="core stack"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,laravel,flutter,dart,docker,gcp,azure,nginx,githubactions,git,vercel&perline=12" alt="secondary stack"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usman-naeem-dev&hide_border=true&background=0d1117&stroke=00ff9c&ring=bf00ff&fire=00d4ff&currStreakLabel=00ff9c&sideLabels=ffffff&dates=999999&currStreakNum=ffffff&sideNums=ffffff"/>
-</p>
-
-<!-- ============================ ACTIVITY GRAPH ============================ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usman-naeem-dev&bg_color=0d1117&color=00ff9c&line=00d4ff&point=ffffff&area=true&area_color=bf00ff&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-</p>
-
-<!-- ============================ SNAKE ============================ -->
-<!--
-  The snake below needs a GitHub Action. Create this file in the repo:
-  .github/workflows/snake.yml  -- content is at the very bottom of this README.
-  It regenerates the SVG daily. Until it runs once, this image will 404.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/usman-naeem-dev/usman-naeem-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</p>
-
-<!-- ============================ TROPHIES ============================ -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usman-naeem-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</p>
+<details>
+<summary><b>Full breakdown</b></summary>
 
 <br/>
 
-<!-- ============================ EXPERIENCE ============================ -->
-## 💼 Experience
+**Frontend** — React 18, Next.js 14, TypeScript, Redux Toolkit, TanStack Query, React Hook Form + Zod, Tailwind, Radix UI, Material UI, shadcn/ui, Vue.js, Astro
 
-**🟢 Full-Stack Engineer — Voice AI Lead** · *VohoAI (Berlin, Germany · Remote)* · `Nov 2024 – Aug 2026`
-Lead developer on every voice agent shipped — prototype to 24/7 production across KSA, Germany & the GCC. Led the white-label multi-tenant SaaS (Next.js + Supabase + Stripe) positioned against Retell & VAPI.
+**Backend** — Node.js, Express, NestJS, REST APIs, Swagger/OpenAPI, JWT / Passport, WebSockets (Socket.io), Python (FastAPI / Flask), Laravel
 
-**🟢 Freelance Full-Stack Developer** · *Upwork & Local Clients* · `Apr 2024 – Nov 2024`
-Delivered Next.js / React front-ends with Node/Express & Laravel back-ends, dashboards, REST APIs, and payment/CRM integrations end to end.
+**Databases** — MongoDB (Atlas / Mongoose), PostgreSQL / Supabase, MySQL, Redis
 
-**🟢 MERN / Laravel Developer** · *Amco IT Systems Inc. (Lahore)* · `Mar 2023 – Apr 2024`
-Built a Web3 NFT marketplace (MetaMask + ethers.js), a digital-asset custody SaaS with RBAC, and Stripe-powered fundraising platforms.
+**Cloud & DevOps** — GCP (Compute Engine, Cloud Storage), Azure, Docker, PM2, Nginx, Coolify, Sentry, GitHub Actions CI/CD
 
-<br/>
+**Mobile** — Flutter, Dart, Provider, go_router, Dio + Retrofit, Hive, Google ML Kit — shipped to Google Play and the App Store
 
-<!-- ============================ PROJECTS ============================ -->
-## 🔥 Featured Projects
+**Voice AI & LLMs** — LiveKit Agents SDK, Pipecat, Retell AI, VAPI, Twilio SIP, Deepgram, ElevenLabs, Whisper, GPT-4o, Gemini 2.5 Pro, Claude
 
-**🛏️ SAMINA — Multi-Tenant Booking & POS Platform** · `NestJS · React 18 · Flutter`
-Production platform for a sleep-health retail chain (AT/DE). Worked across all three codebases — a NestJS/MongoDB API (169 endpoints, 20 collections), a React admin dashboard, and a Flutter app on Google Play. Owned the legacy-system integration layer, timezone-correct scheduling, and digital health-intake with signature + PDF generation.
+**Automation** — n8n, GoHighLevel, RAG pipelines
 
-**📞 Miku — Outbound Booking Voice Agent** · `Retell AI · n8n · GoHighLevel`
-German-language outbound booking agent with an n8n/Node middleware. Authored the v2 state-machine prompt architecture and cut per-session spend by **30K+ tokens** via prompt optimisation and slot-validation caching.
-
-**🏢 Smart-Buildings & Fleet-Master** · `MERN`
-CRM dashboards for building & fleet management — map views, live status tracking, role-based admin.
-
-<sub>More on my <a href="https://usman-next-folio.vercel.app">portfolio →</a></sub>
+</details>
 
 <br/>
 
-<!-- ============================ EDUCATION ============================ -->
-## 🎓 Education & Training
+## Experience
 
-- **BS in Business & Information Technology (BBIT)** — Virtual University of Pakistan *(Ongoing)*
-- **Full-Stack Web Development** — PNY Trainings, Lahore *(2022–2023)*
+**Full-Stack Software Engineer — Voice AI Lead** · VohoAI · Berlin (Remote) · *Nov 2024 – Aug 2026*
+Lead developer on every voice agent shipped by the company. Led the white-label multi-tenant SaaS platform — Next.js front-end, Supabase/Postgres backend, Stripe usage billing — positioned against Retell and VAPI. Owned architecture decisions, prompt design, and production rollouts for enterprise engagements, and mentored junior engineers across LiveKit, Pipecat, n8n, and Next.js/Supabase.
+
+**Freelance Full-Stack Developer** · Upwork & Local Clients · *Apr 2024 – Nov 2024*
+Delivered full-stack applications for international and local clients — Next.js/React front-ends, Node/Express and Laravel back-ends, responsive dashboards, REST APIs, and payment/CRM/email integrations. Owned each project from scoping through deployment and post-launch support.
+
+**MERN Stack / Laravel Developer** · Amco IT Systems Inc. · Lahore · *Mar 2023 – Apr 2024*
+Built a Web3 NFT / digital-asset marketplace with on-chain interactions and wallet integration, a SaaS custody platform with role-based access control, and Stripe-powered fundraising platforms with live progress tracking.
 
 <br/>
 
-<!-- ============================ QUOTE ============================ -->
+## Selected Work
+
+**SAMINA — Multi-Tenant Booking & POS Platform** · `NestJS · React 18 · Flutter`
+Production platform for a sleep-health retail chain across Austria and Germany. Contributed across all three codebases as part of a small team. Owned the integration layer syncing customers, orders, appointments, health data, and catalogs from the legacy Remedi system, plus Scaneca body-scan ingestion to Google Cloud Storage. Implemented timezone-correct scheduling with per-service durations, per-resource capacity, branch hours, and blocked ranges. Delivered digital health-intake with signature capture and PDF generation, QR check-in via Google ML Kit, a Mailgun campaign module, and German localisation.
+
+> Diagnosed and resolved a production CI incident where duplicate self-hosted GitHub Actions runners on an orphaned VM were silently absorbing ~50% of deployments.
+
+**Miku — Outbound Booking Voice Agent** · `Retell AI · n8n · GoHighLevel`
+German-language outbound booking agent with Node.js middleware and calendar API integration. Authored the v2 state-machine prompt architecture, cutting per-session token spend by 30K+.
+
+**Smart-Buildings & Fleet-Master** · `MERN`
+CRM dashboards for building and fleet management with map views, live status tracking, and role-based admin.
+
+<sub><a href="https://usman-next-folio.vercel.app">More on the portfolio →</a></sub>
+
+<br/>
+
+## Beyond Work
+
+Engineering contributor to **AI Vibe Club**, an AI builders community covering voice AI, n8n automation, and the AI Consultant Pathway curriculum. I also build and maintain technical content — scripts, demos, and graphics — on modern AI tooling and agentic coding workflows.
+
+<br/>
+
+## Education
+
+**BS in Business & Information Technology** — Virtual University of Pakistan *(ongoing)*
+**Full-Stack Web Development** — PNY Trainings, Lahore *(2022–2023)*
+
+<br/>
+
+---
+
+<details>
+<summary><sub>GitHub activity</sub></summary>
+
+<br/>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=usman-naeem-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b894&icon_color=0984e3&text_color=c9d1d9&cache_seconds=86400"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-naeem-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b894&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
 </p>
 
-<!-- ============================ FOOTER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,40:00d4ff,100:0d1117&height=120&section=footer"/>
+  <img src="https://streak-stats.demolab.com?user=usman-naeem-dev&hide_border=true&background=0d1117&stroke=30363d&ring=00b894&fire=0984e3&currStreakLabel=00b894&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
 </p>
+
+</details>
 
 <!-- ==================================================================== -->
-<!--  SNAKE WORKFLOW  →  save as  .github/workflows/snake.yml              -->
-<!--
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-  push: { branches: [main] }
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions: { contents: write }
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: usman-naeem-dev
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
--->
+<!--  RELIABILITY NOTE                                                     -->
+<!--                                                                       -->
+<!--  The two stats cards use the SHARED public instance at                -->
+<!--  github-readme-stats.vercel.app, which is used by thousands of        -->
+<!--  people and regularly hits GitHub's API rate limit. When that         -->
+<!--  happens the images render as broken — nothing is wrong with your     -->
+<!--  markdown.                                                            -->
+<!--                                                                       -->
+<!--  To make them reliable, deploy your own instance (10 min, free):      -->
+<!--    1. Fork  https://github.com/anuraghazra/github-readme-stats        -->
+<!--    2. Create a GitHub Personal Access Token (no scopes needed)        -->
+<!--    3. Import the fork into Vercel                                     -->
+<!--    4. Add env var  PAT_1  = your token                                -->
+<!--    5. Deploy, then replace "github-readme-stats.vercel.app" above     -->
+<!--       with your own <project>.vercel.app domain                       -->
+<!--                                                                       -->
+<!--  Streak card uses streak-stats.demolab.com (the current official      -->
+<!--  domain). It has occasional downtime too and can be self-hosted the   -->
+<!--  same way from DenverCoder1/github-readme-streak-stats.               -->
+<!-- ==================================================================== -->
